@@ -203,8 +203,28 @@ about section
 }
 
 .bio-bar span {
-  width: 15px;
-  height: 10px;
-  background-color: yellow;
+  width: 20px;
+  height: 15px;
+  background-color: var(--helper-color);
   position: absolute;
+  left: 28%;
+  top: 10px;
+  border: none;
+  outline: none;
+}
+
+.progres span {
+  left: 48%;
+}
+.progres-2 span {
+  left: 48%;
+}
+.progres-3 span {
+  left: 48%;
+}
+.progres-4 span {
+  left: 48%;
+}
+.progres span {
+  left: 48%;
 }
